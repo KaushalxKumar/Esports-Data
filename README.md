@@ -9,7 +9,7 @@ GUI Retrieves live Esports League and Series data from the PandaScore API and se
     - Line 1: SID
     - Line 2: Auth
     - Line 3: "To" Number (Personal)
-    - Line 3: "From" Number (Twilio)
+    - Line 4: "From" Number (Twilio)
 
 #### Run:
 - Application can either use an online or simulated offline version of both API's in any combination by replacing argument variables with either "online" or "offline.
